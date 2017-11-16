@@ -26,6 +26,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B981BF2E1FBDCD4300B8FE14 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B981BF2F1FBDCD4C00B8FE14 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		B9F67FCB1FBDC98D005A8A75 /* StringsLocalizationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringsLocalizationModel.swift; sourceTree = "<group>"; };
 		B9F6AD021FB459D50011A2F1 /* CPL_LocalizationChecker */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CPL_LocalizationChecker; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9F6AD051FB459D50011A2F1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -49,6 +51,8 @@
 			children = (
 				B9F6AD041FB459D50011A2F1 /* LocalizationChecker */,
 				B9F6AD031FB459D50011A2F1 /* Products */,
+				B981BF2E1FBDCD4300B8FE14 /* README.md */,
+				B981BF2F1FBDCD4C00B8FE14 /* LICENSE */,
 			);
 			sourceTree = "<group>";
 		};
